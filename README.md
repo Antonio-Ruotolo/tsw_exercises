@@ -1,2 +1,2 @@
-# project_tsw
-Repository related to TSW Project UNISA 2026
+# tsw_exercises
+Repository related to TSW exercises UNISA 2026
